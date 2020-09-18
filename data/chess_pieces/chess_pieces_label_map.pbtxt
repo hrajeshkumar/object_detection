@@ -1,0 +1,48 @@
+item {
+  id: 1
+  name: 'white-king'
+}
+item {
+  id: 2
+  name: 'white-queen'
+}
+item {
+  id: 3
+  name: 'white-bishop'
+}
+item {
+  id: 4
+  name: 'white-knight'
+}
+item {
+  id: 5
+  name: 'white-rook'
+}
+item {
+  id: 6
+  name: 'white-pawn'
+}
+item {
+  id: 7
+  name: 'black-king'
+}
+item {
+  id: 8
+  name: 'black-queen'
+}
+item {
+  id: 9
+  name: 'black-bishop'
+}
+item {
+  id: 10
+  name: 'black-knight'
+}
+item {
+  id: 11
+  name: 'black-rook'
+}
+item {
+  id: 12
+  name: 'black-pawn'
+}
